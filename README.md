@@ -1,0 +1,1 @@
+This project analyses tech layoffs from 2020 to 2024, focusing on regional, industry specific, and company-specific factors. Power BI provides insights into layoff distribution, the impact of company size and stage, and the correlation between financial health and layoffs, helping stakeholders understand the dynamics of tech workforce reductions.
